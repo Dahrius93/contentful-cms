@@ -5,12 +5,11 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>contentful cms</h1>
+          <h1>Building things that work</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-            reiciendis officia ullam cupiditate quia exercitationem fuga
-            quisquam veniam esse! Consectetur fugiat quis iure praesentium nihil
-            aut incidunt voluptas, obcaecati alias.
+            Software developer with a background in industrial automation. I
+            design and build web applications with the same attention to logic
+            and reliability I've applied to production systems for years.
           </p>
         </div>
         <div className="img-container">
